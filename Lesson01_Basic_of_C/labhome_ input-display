@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main (){
+/*Begin*/
+//nhap muc luong va tuoi tu nguoi dung
+float luong, tuoi;
+printf ("Nhap muc luong cua ban: ");
+scanf ("%f", &luong);
+printf ("Hay nhap tuoi: ");
+scanf ("%f", &tuoi);
+ 
+/*End*/
+return 0;
+}
