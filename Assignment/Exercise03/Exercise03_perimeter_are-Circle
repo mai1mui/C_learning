@@ -1,0 +1,11 @@
+#include <stdio.h>
+#define pi 3.14
+int main()
+{
+	float r;
+	printf("Enter the radius of Rectangle: ");//BAN KINH
+	scanf("%f",&r);
+	printf("\n\tPerimeter of the Circle: 2 * %.2f * %.2f = %.2f",r,pi,2*r*pi);
+	printf("\n\tArea of the Circle: %.2f * %.2f * %.2f = %.2f",r,r,pi,r*r*pi);
+return 0;
+}
