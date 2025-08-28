@@ -1,0 +1,78 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+struct num_odd
+														{
+															int array[1000];
+															int size_array,count=0;
+															float sum=0;
+															float average;
+	
+														};
+														
+														
+int main() 
+								{
+									//KHAI BAO BIEN
+									int num_question;//BIEN SO CAU HOI
+									int error;
+									char ch;
+									do
+														{
+															printf("*****************************************\n");
+															printf("* Select an appropriate action: \t*\n");
+															printf("*\t1.R1\t\t\t\t*\n");
+															printf("*\t2.R2\t\t\t\t*\n");
+															printf("*\t3.R3\t\t\t\t*\n");
+															printf("*****************************************\n");
+															
+															printf("Enter choice (1-3): ");
+															error=scanf("%d",&num_question);
+															
+															if(error!=1 || num_question<1 || num_question>3)
+																	{
+																		printf("The number is invalid\n\n");
+																		getchar();//XÓA BỘ ĐỆM KHI NHẬP SAI
+																		error=0;
+																	}
+															else
+																	{
+															switch(num_question)
+																					{
+																					case 1:
+																											{
+																												printf("\n*********1.R1**********\n");
+																												num_odd();
+																											}
+																						break;
+																					case 2:
+																											{
+																						printf("*********2.R2**********\n");
+																						
+																						
+																											}
+																						break;
+																					case 3:
+																						printf("=======Exit program. Goodbye=======\n");
+																						exit(0);
+																						break;
+																					default:
+																						printf("Your choice is incorrect\n");
+																						break;
+																					}
+															getchar();
+															printf("Do you want to come back to the menu? (Y/N) : ");
+															ch=getchar();
+															ch=toupper(ch);
+															if(ch!='Y')
+																	{
+																		exit(0);
+																	}
+																	}
+														}
+									while(num_question!=3);
+									
+   
+
+      return 0;
+								}
