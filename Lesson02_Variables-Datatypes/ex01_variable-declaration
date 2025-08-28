@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main (){
+/*Begin*/
+//khai bao bien
+char abc = 'A';
+int xyz = 10;
+float length = 20.5;
+double area = 30.7;
+long literys = 100;
+short arm = 5;
+//xuat ra man hinh
+printf ("+abc of type character - %c\n", abc);
+printf ("+xyz of type character - %d\n", xyz);
+printf ("+length of type character - %.2f\n", length);
+printf ("+area of type character - %.2Lf\n", area);
+printf ("+literys of type character - %Ld\n", literys);
+printf ("+arm of type character - %d\n", arm);
+/*End*/
+return 0;
+}
