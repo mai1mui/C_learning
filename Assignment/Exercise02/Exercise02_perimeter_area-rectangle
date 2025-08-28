@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+	float dai,rong;
+	printf("Enter the width of Rectangle: ");//RONG
+	scanf("%f",&rong);
+	printf("Enter the high of Rectangle: ");//DAI
+	scanf("%f",&dai);
+	printf("\nPerimeter of the Rectangle: 2 * (%.2f + %.2f) = %.2f",rong,dai,2*(dai+rong));
+	printf("\nArea of the Rectangle: %.2f * %.2f = %.2f",rong,dai,dai*rong);
+return 0;
+}
