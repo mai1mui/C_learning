@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <conio.h>
+/*
+Tính tổng 2 số thực nhập tự bàn phím, kết quả hiển thị chỉ 2 số của phần lẻ
+Ví dụ: kết quả của 3.789 + 4.324 sẽ là 8.11
+
+*/
+int main()
+{
+	float a,b,sum;
+	printf("Enter first integer : ");
+	scanf("%f",&a);
+	printf("Enter first integer : ");
+	scanf("%f",&b);
+	
+	sum=a+b;
+	printf("%.2f + %.2f = %.2f",a,b,sum);
+	
+getch();
+return 0;
+}
