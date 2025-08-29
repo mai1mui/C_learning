@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <conio.h>
+/*
+Tính bình phương của số nguyên n với n nhập từ bàn phím
+*/
+int main()
+{
+int n,squ;
+
+printf("Nhap so nguyen: ");
+scanf("%d",&n);
+
+squ=n*n;
+
+printf("Binh phuong cua so nguyen %d la: %d ",n,squ);
+
+getch();//ngung man hinh
+return 0;
+}
