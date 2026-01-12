@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+/* comment ( chú thích) = multriple lines)
+/*assignment operator: toan tu gan
+trai(ghi) = phai(đọc )  
+
+/*Begin*/
+int main (){
+	//Chuẩn bị
+	int A, B, C;
+	//1. nhập hai số AB
+	A = 10;
+	B = 20;
+	//2. Tính tổng AB rồi gán cho 
+	C = A + B;
+	//3. Hiển thị C
+	printf("Tong hai so la: %d", C);
+/*End*/
+return 0;	
+}

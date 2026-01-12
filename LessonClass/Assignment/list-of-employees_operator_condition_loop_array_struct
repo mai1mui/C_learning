@@ -1,0 +1,47 @@
+#include <stdio.h>
+//1.KHAI BAO CAU TRUC LUU TRU ID NHAN VIEN,TEN,LUONG,NGAY GIA NHAP
+struct nhanvien
+{
+	char id[20];
+	char ten[100];
+	float luong;
+};
+int main()
+{
+int p;//KHAI BAO BIEN NHAP SO LUONG NHAN VIEN MUON QUAN LY
+
+//2.KHAI BAO MANG
+struct nhanvien nv[20];
+//3.BAT LOI NEU USER NHAP QUA 20 NGUOI
+do
+					{
+						printf("How many people would you like to manage: ");//BAN MUON QUAN LY BAO NHIEU NGUOI
+						scanf("%d",&p);
+						if(p<1 || p>20)
+								{
+									printf("\nThe number is invalid! Press any key to continue\n ");//SO KHONG HOP LE, NHAN PHIM BAT KY DE TIEP TUC
+								}
+					}
+while(p<1 || p>20);
+getchar();//VI n LA KIEU SO, TRONG BO NHO DEM CON VUON ENTER
+//4.NHAP DU LIEU NHAN VIEN
+for(int i=0;i<p;i++)
+			{
+				printf("Enter staff %d ID: ",i+1);//i++1 VI n LA MANG DU LIEU, i BAT DAU =0
+				gets(nv[i].id);
+				printf("Enter staff %d name: ",i+1);//i++1 VI n LA MANG DU LIEU, i BAT DAU =0
+				gets(nv[i].ten);
+				printf("Enter salary: ");//NHAP LUONG
+				scanf("%f",&nv[i].luong);
+				getchar();
+			}
+//5.HIEN THI THONG TIN
+printf("\nStaff List Information: \n");
+printf("\nNo\t\tID\t\tName\t\tJoin Date \n");
+printf("\n-----|----------|-------------|----------------|\n");
+for(int i=0;i<p;i++)
+			{
+				printf("%d\t%s\t\t%s\t\t%.2f\n",i+1,nv[i].id,nv[i].ten,nv[i].luong);
+			}
+return 0;
+}

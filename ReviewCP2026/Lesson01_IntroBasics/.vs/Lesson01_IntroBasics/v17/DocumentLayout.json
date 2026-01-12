@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5A57B7-813E-46CC-A8B8-734AEEBB0806}|Lesson01_IntroBasics.vcxproj|D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\areaRectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB5A57B7-813E-46CC-A8B8-734AEEBB0806}|Lesson01_IntroBasics.vcxproj|solutionrelative:areaRectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5A57B7-813E-46CC-A8B8-734AEEBB0806}|Lesson01_IntroBasics.vcxproj|D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB5A57B7-813E-46CC-A8B8-734AEEBB0806}|Lesson01_IntroBasics.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5A57B7-813E-46CC-A8B8-734AEEBB0806}|Lesson01_IntroBasics.vcxproj|D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\areaRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB5A57B7-813E-46CC-A8B8-734AEEBB0806}|Lesson01_IntroBasics.vcxproj|solutionrelative:areaRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T15:02:07.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "areaRectangle.c",
+              "DocumentMoniker": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\areaRectangle.c",
+              "RelativeDocumentMoniker": "areaRectangle.c",
+              "ToolTip": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\areaRectangle.c",
+              "RelativeToolTip": "areaRectangle.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T15:47:16.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "areaRectangle.h",
+              "DocumentMoniker": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\areaRectangle.h",
+              "RelativeDocumentMoniker": "areaRectangle.h",
+              "ToolTip": "D:\\APTECH\\1C_P\\ReviewCP\\Lesson01_IntroBasics\\areaRectangle.h",
+              "RelativeToolTip": "areaRectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-06T15:47:08.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿  Ex02_evenOdd.c
+  Ex01_ConditionalLoop_BreakContinue.c
+  Ex03_PrimeCheck.c
+  Ex04_FindPair.c
+  Ex05_MultiplicationTable.c
+  Ex06_GradeSystem.c
+D:\APTECH\1C_P\ReviewCP2026\Lesson03_Conditional-Loop\Ex06_GradeSystem.c(12,22): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Ex07_sum1toN.c
+  main.c
+  Generating Code...
+  Lesson03_Conditional-Loop.vcxproj -> D:\APTECH\1C_P\ReviewCP2026\Lesson03_Conditional-Loop\x64\Debug\Lesson03_Conditional-Loop.exe

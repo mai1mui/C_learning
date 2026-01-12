@@ -1,0 +1,45 @@
+#include <stdio.h>
+/*
+Viết chương trình kiểm tra 1 số có phải là số nguyên tố hay không?
+số nguyên tố là : Số nguyên dương chỉ có 2 ước duy nhất là 1 và chính nó
+tính chất:
++ lớn hơn 2
++ 2 là số nguyên tố chẵn duy nhất. Do đó thay vì kiểm tra tất cả các số từ 2 đến n-1 ta chỉ cần kiểm tra các số lẻ trong đoạn đó
++ số a bất kì % cho một số >= căn bậc 2 của nó thì kết quả thu được khi chia luôn <= giá trị căn bậc 2
+*/
+int main()
+{
+	int num,d;
+	//nhập số tự nhiên n
+	printf("Nhap so tu nhien: ");
+	scanf("%d",&num);
+	if(num<2)
+			{
+				printf("%d khong phai la so nguyen to ",num);
+			}
+	else if(num==2)
+								{
+									printf("%d la so nguyen to ",num);
+								}
+	else if(num%2==0)
+								{
+									printf("%d khong phai la so nguyen to ",num);
+								}
+	else 
+	d=3;
+	while(d<=num)
+						{
+							if(num%d==0)
+							break;
+							d=d+2;
+						}
+	if(d==num)
+			{
+				printf("%d la so nguyen to ",num);
+			}
+	else
+			{
+				printf("%d khong phai la so nguyen to ",num);
+			}
+return 0;
+}

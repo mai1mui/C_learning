@@ -1,0 +1,20 @@
+#include<stdio.h>
+#define pi 3.14159
+int main (){
+/*Begin*/
+//gan bien
+float bankinh, chuvi, dientich;
+
+//nhap ban kinh tu ban phim
+printf ("Hay nhap gia tri ban kinh: ");
+scanf ("%f", &bankinh);
+
+//tinh chu vi , dien tich hinh tron
+chuvi = 2 * pi * bankinh;
+dientich = pi * bankinh * bankinh;
+printf ("Chu vi hinh tron la: %.2f", chuvi);
+printf ("\nDien tich hinh tron la: %.2f", dientich);
+
+/*End*/
+return 0;
+}

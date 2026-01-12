@@ -1,0 +1,3 @@
+1. http://orwelldevcpp.blogspot.com/ (ver5.11)
+2. https://www.embarcadero.com/free-tools/dev-cpp/ (ver 6.3) 
+	Direct -> https://github.com/Embarcadero/Dev-Cpp/releases/download/v6.3/Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Setup.zip

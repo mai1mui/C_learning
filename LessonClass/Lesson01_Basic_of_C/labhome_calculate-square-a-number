@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main (){
+/*Begin*/
+//gan bien
+int n, pown;
+//nhap 1 so tu ban phim
+printf ("Vui long nhap so can tinh: ");
+scanf ("%d", &n);
+//tinh binh phuong so do
+pown = n*n;
+printf ("Ket qua: %d", pown);
+/*End*/
+return 0;
+}

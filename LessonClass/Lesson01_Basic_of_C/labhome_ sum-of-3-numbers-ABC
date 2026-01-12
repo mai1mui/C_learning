@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main (){
+/*Begin*/
+//gán biến
+int a, b, c, sum;
+//nhập abc từ bàn phím
+printf ("Vui long nhap so a: ");
+scanf ("%d", &a);
+printf ("Vui long nhap so b: ");
+scanf ("%d", &b);
+printf ("Vui long nhap so c: ");
+scanf ("%d", &c);
+//tinh tổng 3 số abc và gán vào sum
+sum = a + b + c;
+printf ("Tong 3 so da nhap la: %d", sum);
+/*End*/
+return 0;
+}

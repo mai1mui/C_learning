@@ -1,0 +1,38 @@
+Trạng thái (Check),Thời gian hoàn thành,Tuần,Ngày,Giờ học,Chủ đề chính,Nội dung chi tiết / Bài tập
+FALSE,,Tuần 1,06/01 (Thứ 3),20h-22h,Lý thuyết,C là gì & Cấu trúc chương trình (include main return)
+FALSE,,Tuần 1,06/01 (Thứ 3),20h-22h,Lý thuyết,Lệnh nhập xuất (printf scanf)
+FALSE,,Tuần 1,06/01 (Thứ 3),20h-22h,Bài tập,Viết chương trình in thông tin cá nhân
+FALSE,,Tuần 1,06/01 (Thứ 3),20h-22h,Bài tập,Nhập 2 số in tổng-hiệu-tích-thương
+FALSE,,Tuần 1,07/01 (Thứ 4),18h-21h,Lý thuyết,Biến & Kiểu dữ liệu (int float char double) & sizeof
+FALSE,,Tuần 1,07/01 (Thứ 4),18h-21h,Lý thuyết,Toán tử (số học gán so sánh)
+FALSE,,Tuần 1,07/01 (Thứ 4),18h-21h,Bài tập,Tính chu vi - diện tích hình chữ nhật
+FALSE,,Tuần 1,07/01 (Thứ 4),18h-21h,Bài tập,Chuyển độ C sang độ F
+FALSE,,Tuần 1,09/01 (Thứ 6),18h-21h,Lý thuyết,Câu điều kiện (if else switch)
+FALSE,,Tuần 1,09/01 (Thứ 6),18h-21h,Lý thuyết,Toán tử logic (&& || !)
+FALSE,,Tuần 1,09/01 (Thứ 6),18h-21h,Bài tập,Kiểm tra số chẵn/lẻ
+FALSE,,Tuần 1,09/01 (Thứ 6),18h-21h,Bài tập,Xếp loại học lực
+FALSE,,Tuần 1,10/01 (Thứ 7),20h-22h,Lý thuyết,Vòng lặp (for while do-while) & break/continue
+FALSE,,Tuần 1,10/01 (Thứ 7),20h-22h,Bài tập,In bảng cửu chương
+FALSE,,Tuần 1,10/01 (Thứ 7),20h-22h,Bài tập,Tính tổng các số từ 1 đến n
+FALSE,,Tuần 1,11/01 (CN),4-5h,Ôn tập,Kết hợp điều kiện + vòng lặp
+FALSE,,Tuần 1,11/01 (CN),4-5h,Mini Project,Menu máy tính đơn giản (Cộng/Trừ/Nhân/Chia có lặp lại)
+FALSE,,Tuần 2,13/01 (Thứ 3),20h-22h,Lý thuyết,Hàm (Khai báo tham trị tham chiếu Prototype)
+FALSE,,Tuần 2,13/01 (Thứ 3),20h-22h,Bài tập,Hàm kiểm tra số nguyên tố & Tính giai thừa
+FALSE,,Tuần 2,14/01 (Thứ 4),18h-21h,Lý thuyết,Mảng 1 chiều - 2 chiều (Khai báo duyệt mảng)
+FALSE,,Tuần 2,14/01 (Thứ 4),18h-21h,Bài tập,Tìm max/min mảng & Ma trận cộng trừ
+FALSE,,Tuần 2,16/01 (Thứ 6),18h-21h,Lý thuyết,Chuỗi (string.h: strlen strcpy strcmp strcat)
+FALSE,,Tuần 2,16/01 (Thứ 6),18h-21h,Bài tập,Đếm số ký tự & So sánh 2 chuỗi
+FALSE,,Tuần 2,17/01 (Thứ 7),20h-22h,QUAN TRỌNG,Con trỏ (* &) & Con trỏ với mảng
+FALSE,,Tuần 2,17/01 (Thứ 7),20h-22h,Bài tập,Đổi giá trị 2 biến (swap) bằng con trỏ
+FALSE,,Tuần 2,19/01 (CN),4-6h,BÀI TẬP LỚN 1,Quản lý SV (Thêm/Hiển thị/Tìm tên/Tính ĐTB) dùng Mảng+Hàm
+FALSE,,Tuần 3,20/01 (Thứ 3),20h-22h,Lý thuyết,Struct (Khai báo mảng struct struct+hàm)
+FALSE,,Tuần 3,20/01 (Thứ 3),20h-22h,Bài tập,Tạo Struct SinhVien & Struct SanPham
+FALSE,,Tuần 3,21/01 (Thứ 4),18h-21h,Lý thuyết,File (fopen fclose fprintf fscanf)
+FALSE,,Tuần 3,21/01 (Thứ 4),18h-21h,Bài tập,Lưu danh sách SV ra file & Đọc file hiển thị lên
+FALSE,,Tuần 3,23/01 (Thứ 6),18h-21h,Lý thuyết,Cấp phát động (malloc calloc realloc free)
+FALSE,,Tuần 3,23/01 (Thứ 6),18h-21h,Bài tập,Quản lý mảng động (nhập n phần tử không cố định)
+FALSE,,Tuần 3,25/01 (CN),4-6h,BÀI TẬP LỚN 2,Quản lý SV hoàn chỉnh (Struct + File + Pointer + Menu CRUD)
+FALSE,,Tuần 4,27/01 (Thứ 3),20h-22h,Nâng cao,typedef enum #define macro & Thư viện chuẩn
+FALSE,,Tuần 4,28/01 (Thứ 4),18h-21h,Kỹ năng,Debug (Lỗi phổ biến) & Code style (Tách file .h .c)
+FALSE,,Tuần 4,Từ 29/01,,FINAL PROJECT,Xây dựng hệ thống quản lý (SV/Sản phẩm/Thư viện)
+FALSE,,Tuần 4,08/02 (CN),,Hoàn thành,Review tổng kết môn học

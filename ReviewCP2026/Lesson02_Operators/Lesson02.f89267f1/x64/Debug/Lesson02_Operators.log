@@ -1,0 +1,38 @@
+﻿  basicsOperators.c
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(25,9): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(25,9): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(28,9): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(28,9): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(36,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(36,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(36,9): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(36,9): warning C4566: character represented by universal-character-name '\u1EC9' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(37,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(37,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(37,9): warning C4566: character represented by universal-character-name '\u1EC9' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(45,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(45,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(45,9): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(45,9): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(45,9): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(45,9): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(49,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(49,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(49,9): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1258)
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\basicsOperators.c(49,9): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1258)
+  celciusToFahrenheit.c
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\celciusToFahrenheit.c(11,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.c
+  maxMin.c
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(14,10): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(14,14): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(17,15): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(17,21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(20,16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(20,23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(23,16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(23,23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(26,14): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\maxMin.c(26,18): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+  Lesson02_Operators.vcxproj -> D:\APTECH\1C_P\ReviewCP2026\Lesson02_Operators\x64\Debug\Lesson02_Operators.exe

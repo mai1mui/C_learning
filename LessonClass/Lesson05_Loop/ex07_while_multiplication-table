@@ -1,0 +1,24 @@
+#include <stdio.h>
+/*
+Viết chương trình để in bảng cửu chương từ 2 đến 9.
+*/
+int main()
+{
+	int i=2;
+	
+while(i<=9)
+	{
+		printf("bang cuu chuong nhan %d\n",i);
+		
+				int j=1;
+				while(j<=10)
+					{
+							printf("%d x %d = %d\n",i,j,i*j);
+							j++;
+					}
+		i++;
+	}
+
+
+return 0;
+}

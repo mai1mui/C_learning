@@ -1,0 +1,12 @@
+﻿  areaRectangle.c
+D:\APTECH\1C_P\ReviewCP\Lesson01_IntroBasics\areaRectangle.c(15,2): warning C4098: 'areaRectangle': 'void' function returning a value
+  formatSpecifiers.c
+D:\APTECH\1C_P\ReviewCP\Lesson01_IntroBasics\formatSpecifiers.c(15,2): warning C4098: 'formatSpecifiers': 'void' function returning a value
+D:\APTECH\1C_P\ReviewCP\Lesson01_IntroBasics\formatSpecifiers.c(6,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  helloW.c
+D:\APTECH\1C_P\ReviewCP\Lesson01_IntroBasics\helloW.c(10,5): warning C4098: 'helloW': 'void' function returning a value
+  main.c
+  myContact.c
+D:\APTECH\1C_P\ReviewCP\Lesson01_IntroBasics\myContact.c(15,2): warning C4098: 'myContact': 'void' function returning a value
+  Generating Code...
+  Lesson01_IntroBasics.vcxproj -> D:\APTECH\1C_P\ReviewCP\Lesson01_IntroBasics\x64\Debug\Lesson01_IntroBasics.exe

@@ -1,0 +1,15 @@
+#include <stdio.h>
+/*
+*/
+int main()
+{
+	for(int i=1;i<=10;i++)
+				{
+					printf("\nsquarer of %d i= %d",i,squarer(i));
+				}
+return 0;
+}
+squarer(int x)
+{
+return (x*x);//có return thì kiểu dữ liệu squarer là int, không có return thì là void
+}

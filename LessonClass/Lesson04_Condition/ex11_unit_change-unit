@@ -1,0 +1,26 @@
+#include <stdio.h>
+/*
+Viết một chương trình để chuyển đổi giữa các đơn vị đo chiều dài: mét, kilômét, và
+mile. Người dùng nhập giá trị và đơn vị đo, và chương trình sẽ hiển thị giá trị
+chuyển đổi.
+*/
+int main()
+{
+int value;
+char unit;
+printf("Nhap gia tri: ");
+scanf("%d",&value);
+getchar();
+printf("Nhap don vi do (k,m): ");
+scanf("%c",&unit);
+switch(unit)
+{
+	case 'm':
+		printf("%d m = %d km",value,0.001*value);
+		break;
+	case 'k':
+		printf("%d km = %d m",value,1000*value);
+		break;
+}
+return 0;
+}

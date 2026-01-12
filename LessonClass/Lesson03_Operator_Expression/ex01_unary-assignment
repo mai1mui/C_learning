@@ -1,0 +1,24 @@
+#include<stdio.h>
+/*
+1.unary operator: toan tu mot ngoi
+++, --
+case1: int a=10, b;
+		b = a++;
+		a=11, b=10
+		vì case1 chay 2 dong lenh
+		1.1 b=a
+		1.2 a=a+1 hay co the ki hieu la a+=1( goi la toc ki)						
+case2: int a=10,b;
+		b=++a;
+		a=11, b=11
+		vi case 2 chay 2 dong lenh
+		2.1 a+=1
+		2.2 b=a						
+2.binary operator: toan tu hai ngoi
+*/
+int main (){
+/*Begin*/
+
+/*End*/
+return 0;
+}

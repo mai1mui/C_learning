@@ -1,0 +1,40 @@
+#include <stdio.h>
+#include <conio.h>
+/*
+Viết chương trình giải phương trình bậc nhất ax + b = 0
+th1: a=0, b=0 => pt vo so nghiem
+th2: a=0, b#0 => pt k co nghiem
+th3: a#0, b#0 => pt co 1 nghiem x=-b/a
+The equation has the solution- pt có nghiem la
+The equation has no solution - pt k co nghiem
+Equation has infinite solutions- pt co so nghiem
+*/
+int main()
+{
+		float a,b;
+		printf("First degree equation ax + b = 0 ");
+		printf("\nEnter first integer: ");
+		scanf("%f",&a);
+		printf("\nEnter second integer: ");
+		scanf("%f",&b);
+				
+				if(a==0)
+					{
+						if(b==0)
+								{
+									printf("\nEquation has infinite solutions");
+								}
+						else
+								{
+									printf("\nThe equation has no solution");
+								}
+					}
+				else
+					{
+						printf("\nThe equation has one solution is: %.2f",-b/a);
+						
+					}
+		
+getch();
+return 0;
+}
