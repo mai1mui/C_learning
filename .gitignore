@@ -53,3 +53,17 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Bỏ qua file
+*.user
+
+# Bỏ qua thư mục tạm của Visual Studio
+.vs/
+.vscode/
+
+# Bỏ qua thư mục build (kết quả chạy code)
+Debug/
+Release/
+x64/
+x86/
+bin/
