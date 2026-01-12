@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include "Ex01_io.h"
+#include "Ex02_SumOfElements.h"
 
 int main(void) {
     int choice;
@@ -9,6 +10,7 @@ int main(void) {
     do {
         printf("\nMENU\n");
         printf("1. Execute Ex01_io\n");
+		printf("2. Execute Ex02_SumOfElements\n");
         printf("0. Exit\n");
         printf("Enter your choice: ");
 
@@ -20,6 +22,9 @@ int main(void) {
         case 1:
             Ex01_io();
             break;
+        case 2:
+            Ex02_SumOfElements();
+			break;
         case 0:
             printf("Goodbye!\n");
             return 0;

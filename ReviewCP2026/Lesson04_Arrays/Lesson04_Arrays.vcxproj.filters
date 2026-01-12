@@ -21,9 +21,15 @@
     <ClCompile Include="Ex01_io.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ex02_SumOfElements.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ex01_io.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex02_SumOfElements.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
